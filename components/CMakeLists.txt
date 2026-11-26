@@ -7,7 +7,8 @@ add_library(components
   src/Directory.cpp
   src/StagingArea.cpp
   src/WorkingDirectory.cpp
-  src/LocalRepository.cpp
+  src/LocalCommitTree.cpp
+  src/Repository.cpp
 )
 
   
